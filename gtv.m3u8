@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:604,Converting https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
-#EXTVLCOPT:network-caching=1000
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1727459,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x480
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
