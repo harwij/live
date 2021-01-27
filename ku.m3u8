@@ -1,0 +1,67 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90rMcyFZ/rctii.jpg" tvg-id="RIYAN.345e3772e60a0d6b1bd3354f45e0d0e6.SHINTA"  tvg-name"RCTI" group-title="LOCAL",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6NsFXtp/gtv.jpg" tvg-id="RIYAN.e135017defca636f731bac54e824f60b.SHINTA" tvg-name"GTV" group-title="LOCAL",GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W162L56x/logo-beritasatu-big1.png" tvg-id="RIYAN.e71754084a50d6edec46607ff7988462.SHINTA" tvg-name"BERITA SATU" group-title="LOCAL",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvm4ttzg/inewss.jpg" tvg-id="RIYAN.460cd67f586331861da1cbaa035c3b0c.SHINTA" tvg-name"INEWS" group-title="LOCAL",INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY5LWSwh/tvone.jpg" tvg-name"TVONE" group-title="LOCAL",TVONE
+http://210.210.155.35:80/session/3f10d31a-5b25-11eb-9468-c81f66f89318/qwr9ew/s/s105/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvOne
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13HfcmTg/cnn.jpg" tvg-id="Riyan.7a3de541ac9681b2a0ff5203a9380aad.Coday" tvg-name"CNN INDONESIA" group-title="LOCAL",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLp13npB/rtv.jpg" tvg-id="RIYAN.03e033066dfcfd6dff9544a253d16e39.SHINTA" tvg-name"RTV" group-title="LOCAL",RTV
+http://210.210.155.35:80/session/034a24f6-5b13-11eb-901e-b82a72d63267/qwr9ew/s/s12/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RTV
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXB230B4/mnctvv.jpg" tvg-id="RIYAN.8286c1206fbac29e3b8b90874f0f7541.SHINTA" tvg-name"MNCTV" group-title="LOCAL",MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8Hhfk0eHDRj61vC5nbyF7TSXPDo=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cd8bd1.png" tvg-id="RIYAN.75468317c3972fadc2cb5504f62e32d3.SHINTA" tvg-name"NET" group-title="LOCAL",NET
+http://210.210.155.35:80/session/c531ee88-5b12-11eb-9063-b82a72d63267/qwr9ew/s/s08/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NET
+ 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3qJzB7DThwYsbWIrCcCtAnWHoTM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/6d4e21.png" (90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/6d4e21.png" tvg-id="RIYAN.46bf75118583eb04973ff120d0a46a80.SHINTA"  tvg-name"METRO TV" group-title="LOCAL",METRO TV
+http://210.210.155.35:80/session/dc5f363c-5b09-11eb-8e17-b82a72d63267/uq2663/h/h12/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66jczKkm/tvri.jpg" tvg-id="RIYAN.63ba26f85e6dde9a5c81055c1cc25a4b.SHINTA" tvg-name"TVRI NASIONAL" group-title="LOCAL",TVRI NASIONAL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/t4f1piVqNWbpIWO2czRJvu9Ht6g=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/87f1aa.png" tvg-id="RIYAN.df25edb7647376050fec66e78210a107.SHINTA" tvg-name"SCTV" group-title="LOCAL",SCTV
+http://210.210.155.35:80/session/8022a03a-5b17-11eb-a8d2-c81f66f89318/qwr9ew/s/s03/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
+ 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2ePxful5aXK_9JI_giwMuSYCI10=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/cdc113.jpg" tvg-id="RIYAN.c538ca8c477fcf15aadaed9d470e76be.SHINTA" tvg-name"TRANS 7" group-title="LOCAL",TRANS 7
+http://210.210.155.35:80/session/93abb998-5b12-11eb-8760-c81f66f89318/qwr9ew/s/s101/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans7
+ 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/a4gnMcQXpnYE7rArRkCarFdfChc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/2a938b.jpg" tvg-id="RIYAN.ab8f02544fc9175b995be959b2ebdd60.SHINTA" tvg-name"TRANS TV" group-title="LOCAL",TRANS TV
+http://210.210.155.35:80/session/ce7d73f8-5b0e-11eb-8291-b82a72d63267/x6bnqe/s/s252/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans_TV
+ 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.26a9450ffd412f1ad49d5a78a78eb441.SHINTA" tvg-name"INDOSIAR" group-title="LOCAL",INDOSIAR
+http://210.210.155.35:80/session/20828798-5b0e-11eb-b7f4-b82a72d63267/qwr9ew/s/s04/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosiar
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTwL7tNd/antv.jpg" group-title="LOCAL",ANTV
+http://rr2.dens.tv/s/s07/index2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LveTiruIzIi7xfIe0bp6BH097SY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/5ed6aa.png" tvg-id="RIYAN.ff7853ffcddea9460cea8d2cd68e5a97.SHINTA" tvg-name"KOMPAS TV" group-title="LOCAL",KOMPAS TV
+http://210.210.155.35:80/session/4f51467c-5b13-11eb-a83f-b82a72d63267/qwr9ew/s/s104/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kompas_TV
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0k7bKGk/Logo-Jawapos-TV.png" tvg-name"JAWA POS TV" group-title="LOCAL",JAWA POS TV
+http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="JTV.ID" tvg-logo="http://www.jtv.co.id/image/logojtv1.png" tvg-id="Riyan.4f4adcbf8c6f66dcfc8a3282ac2bf10a.Coday" tvg-name"JTV" group-title="LOCAL",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76PgRDgK/DAAITV.jpg" tvg-id="RIYAN.41e4f73130f7f6e4b8fba0d1cbfe0aa8.SHINTA" tvg-name"DAAI TV" group-title="LOCAL",DAAI TV
+http://210.210.155.35:80/session/7b131adc-5b14-11eb-87e1-c81f66f89318/qwr9ew/s/s13/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjW7tHPt/Elshinta-TV-2019-Variant.png" tvg-name"ELSHINTA TV" group-title="LOCAL",ELSHINTA TV
+http://210.210.155.35:80/session/ba097c9e-5b15-11eb-a112-b82a72d63267/qwr9ew/s/s10/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Elshinta_TV
